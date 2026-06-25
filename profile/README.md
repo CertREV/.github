@@ -1,8 +1,12 @@
-# CertREV
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CertREV/.github/main/profile/logo.png" alt="CertREV" width="112" height="112" />
+</p>
 
-**Expert-verified content certification for E-E-A-T, AI citations, and organic growth.**
+<h1 align="center">CertREV</h1>
 
-> Get cited by AI search. Not filtered out.
+<p align="center"><strong>Expert-verified content certification for E-E-A-T, AI citations, and organic growth.</strong></p>
+
+<p align="center"><em>Get cited by AI search. Not filtered out.</em></p>
 
 CertREV is trust infrastructure for the generative-search era. We connect brands and
 publishers with credentialed, license-verified experts who review and verify content —
@@ -47,4 +51,4 @@ Turnaround in days, not months, with audit-trail receipts. One-click publish for
 - Company — https://www.linkedin.com/company/certrev
 - Founder — Owen Walls · https://owenwalls.com · https://www.linkedin.com/in/owenwalls
 
-CERTREV LLC · Built solo by Owen Walls — AI trust infrastructure for the answer-engine era.
+<p align="center"><sub>CERTREV LLC · Built by Owen Walls — AI trust infrastructure for the answer-engine era.</sub></p>
