@@ -49,6 +49,6 @@ Turnaround in days, not months, with audit-trail receipts. One-click publish for
 - Pricing — https://certrev.com/pricing
 - Contact — support@certrev.com
 - Company — https://www.linkedin.com/company/certrev
-- Founder — Owen Walls · https://owenwalls.com · https://www.linkedin.com/in/owenwalls
+- Founder — Owen Walls · https://certrev.com/about · https://www.linkedin.com/in/owenwalls
 
 <p align="center"><sub>CERTREV LLC · Built by Owen Walls — AI trust infrastructure for the answer-engine era.</sub></p>
