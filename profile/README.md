@@ -4,51 +4,67 @@
 
 <h1 align="center">CertREV</h1>
 
-<p align="center"><strong>Expert-verified content certification for E-E-A-T, AI citations, and organic growth.</strong></p>
+<p align="center"><strong>Expert-reviewed content certification for E-E-A-T, AI citations, and organic growth.</strong></p>
 
-<p align="center"><em>Get cited by AI search. Not filtered out.</em></p>
+<p align="center"><em>Real experts, behind every word you publish.</em></p>
 
-CertREV is trust infrastructure for the generative-search era. We connect brands and
-publishers with credentialed, license-verified experts who review and verify content —
-then attach the machine-readable and human-readable trust signals that AI search engines
-and reviewers actually look for.
+CertREV attaches credentialed expert review to content, so it stays citable in an era where
+AI search filters for verifiable expertise. Credentialed MDs, PharmDs, RDs and RNs review,
+revise and certify your drafts. Every certificate publishes as a card on your page and as
+JSON-LD that AI assistants already parse.
 
-This is *not* certificate revocation, and we're not Certiverse. CertREV is
-**expert-verified content certification** for AI search and E-E-A-T.
+CertREV certifies; the expert reviews.
+
+Despite the name, this is not certificate revocation.
 
 ## The thesis
 
 Generative engines (ChatGPT, Google AI Overviews, Perplexity, and the rest) increasingly
 decide *which* sources to cite and which to filter out. Their bias is toward content that
-carries verifiable signals of experience, expertise, authoritativeness, and trust — the
+carries verifiable signals of experience, expertise, authoritativeness and trust: the
 "E-E-A-T" Google has long described for ranking, now load-bearing for **AEO / GEO**
 (answer-engine and generative-engine optimization).
 
-Most content has no way to *prove* any of that. CertREV closes the gap: a real,
-credentialed expert reviews your content, and we bind their verified identity to it with
-durable, checkable signals.
+Most content has no way to *prove* any of that. CertREV closes the gap. A named,
+credentialed expert reviews the content claim by claim, and the proof publishes with the
+page.
 
 ## What a certification attaches
 
-- **Expert memo** — a named, credentialed reviewer's assessment of the content.
-- **Verified credentials** — reviewer license/board certification verified against issuing boards.
-- **`reviewedBy` JSON-LD schema** — machine-readable provenance for crawlers and engines.
-- **SHA-256 content hashing + tamper detection** — proves the certified version is the published version.
-- **Embeddable trust badges & contributor cards** — human-readable trust signals on the page.
-- **Public certificate page** — a shareable, verifiable record of the review.
-- **PDF certificate with QR** — portable proof for audits and compliance.
+- **Expert memo** · a named, credentialed reviewer's first-person assessment of the content.
+- **A verified credential** · the license is verified before assignment, and the credential
+  travels with the certificate. CertREV recognizes 274 specialties across MD, PharmD, RD, RN,
+  PhD and JD.
+- **`reviewedBy` JSON-LD** · machine-readable provenance for crawlers and answer engines.
+- **A SHA-256 fingerprint** · of the exact text that was approved, so a page that drifts from
+  what was reviewed can be detected rather than assumed.
+- **A badge and contributor card** · the human-readable mark, rendered on your own page.
+- **A public certificate** · at certrev.com, that anyone can verify.
 
-Built for content marketers, SEO leads, publishers, and brand/compliance teams in
-regulated and trust-sensitive spaces — health, wellness, finance, legal, and tech.
+Built for health, beauty and wellness brands: the content, compliance and legal teams who
+answer to Google, and to readers.
 
-Turnaround in days, not months, with audit-trail receipts. One-click publish for Shopify.
+Nothing ships without you. Work lands in your CMS as a draft and waits, and sign-offs are
+recorded and dated.
+
+## Open source
+
+- [`@certrev/cert-block`](https://www.npmjs.com/package/@certrev/cert-block) · the render edge.
+  SSR-safe React components, a deterministic schema.org JSON-LD projector, and a fail-closed
+  verify layer.
+- [`@certrev/cert-contract`](https://www.npmjs.com/package/@certrev/cert-contract) · the
+  signed-envelope contract and its verification kernel.
+- [`reviewedby-schema`](https://www.npmjs.com/package/reviewedby-schema) · standards-correct
+  `reviewedBy` / E-E-A-T JSON-LD, MIT-licensed and usable without CertREV.
+
+Public source for the first two lives in [cert-kit](https://github.com/CertREV/cert-kit).
 
 ## Links
 
-- Website — https://certrev.com
-- Pricing — https://certrev.com/pricing
-- Contact — support@certrev.com
-- Company — https://www.linkedin.com/company/certrev
-- Founder — Owen Walls · https://owenwalls.com · https://www.linkedin.com/in/owenwalls
+- Website · https://certrev.com
+- Pricing · https://certrev.com/pricing
+- Contact · support@certrev.com
+- Company · https://www.linkedin.com/company/certrev
+- Founder · Owen Walls · https://www.linkedin.com/in/owenwalls
 
-<p align="center"><sub>CERTREV LLC · Built by Owen Walls — AI trust infrastructure for the answer-engine era.</sub></p>
+<p align="center"><sub>CertREV LLC · Expert-reviewed content certification.</sub></p>
