@@ -46,9 +46,6 @@ certification answers one of them.
 | **Authoritativeness** | Are they a recognized source on the topic? | A named expert matched to the subject, with a public profile and `reviewedBy` markup linking page, person and credential. |
 | **Trust** | Is the page accurate, honest and safe to rely on? | A public certificate, a fingerprint of the exact approved text, a dated record of every sign-off, and a plain statement that the reviewer is paid and independent. |
 
-Google says E-E-A-T is not itself a ranking factor; it is how its guidelines describe quality,
-with the most weight on topics that affect health, money or safety.
-
 Built for health, beauty and wellness brands, and for the content, compliance and legal teams
 behind them.
 
